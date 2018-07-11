@@ -11,4 +11,5 @@ No projeto falta algumas folhas de estilos, mas você poderá visualizar o proje
 - JavaScript
 
 ### Imagem do projeto
-![firebase](https://user-images.githubusercontent.com/6588753/42545541-039da868-848f-11e8-8516-384efbec7621.png)
+![calculoimc](https://user-images.githubusercontent.com/6588753/42546046-bd7fc926-8491-11e8-9b36-4077f48e04e1.png)
+
